@@ -127,6 +127,7 @@
   style='position:absolute;bottom:-20px;left:146px;width:550px'/>
 
 \page
+<!-- PAGE ONE-->
 
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903095090585665556/book.png' 
@@ -143,15 +144,22 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 <div class='toc'>
 	
 - ### [<span></span><span>**Races**</span>](#p3)
- - [<span>Page R-1</span><span>Naga</span>](#p3)
- - [<span>Page R-2</span><span>Fire Newt</span>](#p4)
- - [<span>Page R-3</span><span>Water Newt</span>](#p5)
+ - [<span>Page 3</span><span>Naga</span>](#p3)
+ - [<span>Page 4</span><span>Fire Newt</span>](#p4)
+ - [<span>Page 5</span><span>Water Newt</span>](#p5)
 	
 - ### [<span></span><span>**Classes & Subclasses**</span>](#p6)
-	 - [<span>Page S-1</span><span>Fighter- Martial Archetype: Olympian</span>](#p6)
-	 - [<span>Page S-2</span><span>Paladin - Oath of The Warden</span>](#p7)
+	 - [<span>Page 6</span><span>Barbarian Path: Path of the Battlerager (Rework)</span>](#p6)
+	 - [<span>Page 7</span><span>Barbarian Path: Path of Berzerker (Rework))</span>](#p7)
+	 - [<span>Page 8</span><span>Fighter - Martial Archetype: Olympian</span>](#p8)
+	 - [<span>Page 9</span><span>Paladin - Oath of The Warden</span>](#p9)
+	 - [<span>Page 10</span><span>Rogue - Void Singer</span>](#p10)
+	 - [<span>Page 11</span><span>Wizard - Order of Entropy</span>](#p11)
+
 	
-- ### [<span></span><span>**Spells**</span>](#p6)
+<!--
+
+- ### [<span></span><span>**Spells**</span>](#p6) 
 
 - ### [<span></span><span>**Homebrew Items**</span>](#p8)
  - #### [<span>HB-1</span><span>**Nonmagic Items**</span>](#p8)
@@ -168,7 +176,8 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 - ### [<span></span><span>**Epic Boons**</span>](#p3)
 	
 - ### [<span></span><span>**Homebrew Rulings**</span>](#p3)
-</div>
+</div> 
+-->
 
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
@@ -180,6 +189,8 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
+<!-- PAGE TWO-->
+
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903793815939338250/background.png' 
   style='position:absolute;top:0px;left:-100px;height:120%'/>
@@ -227,6 +238,9 @@ Size. Naga stand about 5 feet tall when upright, but the total length of their b
 <!--The above is the page number added automatically. Do not mess with this.-->
 
 \page
+<!-- PAGE THREE-->
+
+
 # Fire Newts
 Fire Newts orginal hail from the elemental plane of fire. Because of this fact firenewts are wowed by the most mundane of things found on the material plane. For instance firenewts throw outrageously large parties every night as they are unused to the idea of a nighttime.
 Firenewts are about the size of a small human. They appear like lizardfolk with simpler faces and larger, dark-colored eyes. Their speckled, smooth skin appear eel-like and bears the color of flames. Firenewt colors have increasing rarity from red to yellow to white to blue. Even more rare are purple newts and above that green newts. Solid colored newts are very rare. There are not any known solid purple or green newts. Firenewts have long feet, giving them the appearance of "reversed knees".
@@ -288,6 +302,8 @@ After you use this ability, you can’t use it again until you complete a short 
 <!--The above is the page number added automatically. Do not mess with this.-->
 	
 \page
+<!-- PAGE FOUR-->
+
 # Water Newts
 Waternewts are a race native to the plane of water. Waternewts constantly work torwards a deeper understanding of realty and what causes events to occur, they have dubbed this transcendent force "the current" and believe that this phenomenon is the reason behind every occcurance. Waternewts believe that nothing is above the force of the current, and even the dieties bend to this will. 
 
@@ -336,15 +352,137 @@ Waternewt cities are a confusing blend of canals, tunnels, and wide open spaces 
 <div class='pageNumber auto'></div>
 
 <!--The above is the page number added automatically. Do not mess with this.-->
+\page
+<h1 style="font-size:5vw">Subclasses</h1>
+
+## Barbarian Path: Path of the Battlerager (Rework)
+
+### Battlerager Armor
+When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon.
+
+
+
+|Name | Cost | Armor Class | Weight| Type |
+|:---:|:---:|:---|:---:|
+| Spiked Armor | 75 gp | 14 + Dex modifier (max 2)| 10 | Medium|
+
+When you are wearing spiked armor, and holding nothing in your hands, or using a shield, you can use it as a weapon that has the heavy and two-handed properties. Additionally, while you are “wielding” the armor, you can still grapple other creatures. Magical spiked armor adds the magical bonus to AC to its attack rolls and damage rolls and counts as magical for the purposes for overcoming resistances and immunities.
+
+The damage dice of the Spiked Armor starts at 1d6 and increases as you gain levels in this subclass.
+The damage dice changes to 1d8 at 6th level, 1d10 at 10th level, and 1d12 at 14th level.
+
+
+Additionally, when you are grappling a creature, you can make an attack using your Spiked Armor as a bonus action against the grappled creature
+
+
+### Reckless Abandon
+Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
+
+Additionally, the damage dice of your spiked armor changes to 1d8
+
+
+### Battlerager Charge
+Beginning at 10th level, you can take the Dash action as a bonus action while you are raging. If you dash as a bonus action and attack a creature on the same turn, you can attempt to grapple the creature one time for free.
+
+Additionally, the damage dice of your spiked armor changes to 1d10
+
+
+### Spiked Retribution
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 1d12 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor. If you are wearing magical spiked armor, this damage counts as magical, but you do not add any extra damage to the effect.
+
+Additionally, the damage dice of your spiked armor changes to 1d12
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SUBCLASS ONE: PATH OF THE BATTLERAGER</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+
+\page
+<img 
+  src='https://cdn.discordapp.com/attachments/903093130620993579/904087191112785980/no.png' 
+  style='position:absolute;top:0px;left:-100px;height:120%'/>
+
+## Barbarian Path: Path of Berzerker (Rework)
+<div class='descriptive'>
+##### Two versions, for everyone.
+On our server, we have two approved versions of the Battle Rager rework. Both are valid for use in play. However, you mus use one of them. In addition, we have removed the race restriciton that you can only be a dwarf, meaning you can play this subclass with whatever player race you want.
+
+</div>
+
+### Version One
+
+
+**Frenzy** Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion. 
+
+---
+**Tireless battle**
+Starting at 3rd level, you ignore the effects of exhaustion while in a frenzy.
+
+---
+**Mindless Rage**
+Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+
+---
+**Intimidating Presence**
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose any number of creatures that you can see within 30 feet of you. If a creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Strength modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creatures until the end of your next turn. This effect ends if a creature ends its turn out of line of sight or more than 60 feet away from you.
+
+---
+If a creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
+
+---
+**Muscle Mind**
+At 10th level, you realize that your brain is also a muscle. You can add your Strength modifier to Intelligence, Charisma, or Wisdom saving throws while you are in a frenzy. You can use this feature a number of times equal to your proficiency bonus. You regain all uses after a long rest.
+
+---
+**Retaliate**
+Starting at 14th level, when you take damage from a creature that is within the reach of a melee weapon you are holding, you can use your reaction to make a melee weapon attack against that creature. 
+### Version Two
+
+**Frenzy** Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion. 
+
+---
+**Tireless battle**
+Starting at 3rd level, you ignore the effects of exhaustion while in a frenzy.
+
+---
+**Mindless Rage**
+Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+
+---
+**Intimidating Presence**
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose any number of creatures that you can see within 30 feet of you. If a creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Strength modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creatures until the end of your next turn. This effect ends if a creature ends its turn out of line of sight or more than 60 feet away from you.
+
+---
+If a creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
+
+---
+**Muscle Mind**
+At 10th level, you realize that your brain is also a muscle. You can add your Strength modifier to Intelligence, Charisma, or Wisdom saving throws while you are in a frenzy. You can use this feature a number of times equal to your proficiency bonus. You regain all uses after a long rest.
+
+---
+**Retaliate**
+Starting at 14th level, when you take damage from a creature that is within the reach of a melee weapon you are holding, you can use your reaction to make a melee weapon attack against that creature.
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SUBCLASS TWO: PATH OF THE BERZERKER (REWORK)</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
 
 \page
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903800595964645386/yes.png' 
-  style='position:absolute;top:0px;left:-0px;height:105%'/>
-	
-<!-- Images above-->
+  style='position:absolute;top:0px;left:-0px;height:105%'/>	
 
-<h1 style="font-size:4vw">Subclasses</h1>
+<!-- Images above-->
 
 ## Fighter - Martial Archetype: Olympian
 
@@ -398,7 +536,7 @@ Starting at 18th level, your wrestling dice turn into d12s.
 -->
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS ONE: OLYMPIAN</div>
+<div class='footnote'>SUBCLASS THREE: FIGHTER - MARTIAL ARCHETYPE: OLYMPIAN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -493,7 +631,105 @@ long rest.
 
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS TWO: OATH OF THE WARDEN</div>
+<div class='footnote'>SUBCLASS FOUR: PALADIN - OATH OF THE WARDEN</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+\page 
+## Rogue - Void Singer
+For some fortune is what they seek, for others knowledge, and for others still power. Some would call what lurks within the void all three. Those who have delved deep enough to find it sing of what they found. 
+
+#### Lessons of the Void
+The whispers of Entropy teach you well. At 3rd level you gain proficency with medium armor, as well as proficiency with all martial and simple weapons.  
+
+Additionally at 9th level you gain proficency with heavy armor and shields.
+
+#### Fed by Blood
+Entropy spurs you into battle, and it protects you from harm. At 3rd level when you hit with a sneak attack you may choose to deal half damage, if you do so, you gain temporary hitpoints equal to the damage dealt. You may use this ability a number of times equal your proficency modifier per long rest.
+
+You also gain additional ways to use your Sneak Attack; you don't need advantage on the attack roll to use your Sneak Attack against a creature if 2 or more creatures are within 5 feet of you or a creature that is allied to the creature you are targeting is within 5 feet of that creature and you don't have disadvantage. Finally you can sneak attack with any martial weapon that lacks the reach or heavy property. All other rules for Sneak Attack still apply to you.
+
+#### Song of Recognition
+Entropy croons, drawing the attention of all to you. At 9th level as a bonus action you may cause all creatures within 30 feet that are hostile to you to make a Charisma check contested by your own Charisma check. On a failure that creature has disadvantage on all attacks against creatures other then you, additionally allies have advantage against saving throws caused by said creature, This effect lasts for 1 minute. At the end of each of their their turns they may repeat the saving throw. This effect ends if you move more then 15 feet from where you triggered it. You have one use of this, and gain an additional use at 13th and 17th level of this class. You regain any uses expended after a long rest.
+
+#### Instrument of Death
+Entropy sings and you are its instrument. At 13th level You gain profiency with Constitution saving throws.
+
+Additonally While Song of Recognition is active, you gain advantage on all attacks against creatures effected by Song of Recognition that failed their saving throw. 
+
+
+
+#### Choir of the Void
+The whispers of entropy spill out into a chorus of song, you slide through reality striking at your foes regardless of distance. At 17th level when activating Song of Recognition you may choose to enter Choir of the Void. when you do so you gain the following abilities for one minute:
+- Your speed falls to 0 feet.
+- You gain infinite uses of Fed by Blood.
+- Your AC is increased by 3
+- As an action you can make a melee attack against a creature under the effects of Song of Recognition regardless of range.
+
+As an action you can end this effect. After activating this feature you may not do so again until long rest.
+
+<img 
+  src='https://wo3lf.files.wordpress.com/2016/05/edward-delandre-knight-knight-artstation.jpg?w=584' 
+  style='position:absolute; top:230px; right:-150px; width:670px' />
+
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56805e26-a646-4670-8b40-2ed27d438198/dcjq5b0-e59f2e4b-eb1a-4a2a-80a5-5e43cf723e92.png/v1/fill/w_1024,h_1326,strp/43___nawdgqf_by_flamableconcrete_dcjq5b0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMyNiIsInBhdGgiOiJcL2ZcLzU2ODA1ZTI2LWE2NDYtNDY3MC04YjQwLTJlZDI3ZDQzODE5OFwvZGNqcTViMC1lNTlmMmU0Yi1lYjFhLTRhMmEtODBhNS01ZTQzY2Y3MjNlOTIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6qs74UuY1NEd88N8xS11Qrtg4tIsLYuc-xySCI6JGfQ'
+     style='position:absolute; top:0px; left:0px; width:816px' />
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SUBCLASS FIVE: OATH OF THE WARDEN</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+\page
+## Wizard - Order of Entropy
+For most wizards channeling the weave is as far as they go. However some wizards dig deeper, channeling a different yet familar energy. Entropy, a force that acts against the weave and magic, the wizards who walk this path balance on a knifes edge. For some this is a means to an end, they don't dig much deeper then the basics but for others they dig even deeper, leeching off the weave to channel powerful forces, forces that are regularly used to strike down the very ones who make regular use of the Weave.
+
+
+#### Entropic Bolt
+At 2nd level you gain the ability to channel the latent force of entropy. You gain access to the firebolt cantrip with the following changes;
+it deals force instead of fire damage, its range is reduced to 60 feet, and it is unnaffected by counterspell or antimagic field during its casting.
+
+
+#### Weave Theft
+Also at 2nd level you are not bound by many of the rules that affect most spellcasters. Select a cantrip and 1st level spell of your choice from any class to take. You prepare this spell as normal, it uses intelligence rather then its normal casting ability, and it is treated as a wizard spell for you. Additionally The spells you learn at 7th, and 14th level can come from any classes spell list. You prepare these spells as normal and it uses intelligence rather then its normal casting ability.
+
+#### Entropic Build Up
+At 6th level you grow more in tune with the entropic forces of reality, you are able to turn the weapons of your enemy against them. 
+When counterspelling or dispelling a spell you gain an amount of Entropic tokens equal to half of the dispelled spells level rounded up with a minimum of 1 token. You can have a maximum number of tokens equal to your double your proficency modifer.
+
+As a bonus action you can spend entropic tokens to restore a spell slot equal to half the entropic tokens spent rounded up. The highest spellslot you can restore is 5th level.
+
+Additionally the damage dice for the cantrip granted by Entropic Bolt increases from D10 to D12.
+
+#### Carve the Weave
+Your grip over entropy has strengthened to the point that your very magic is infused with it. At 10th level when you cast a spell you can use your reaction to spend a entropic token to channel entropic energies rather then the weave. Spells cast this way are unaffected by counterspell or antimagic field.
+
+#### Rebuke the Weave
+At 14th level as a bonus action, you may expend a spell slot of 7th level or higher to enter an entropic state of being. For one minute you gain a limited magic resistance granting the following effects
+- If you are targeted or effected by a spell of third level or lower it instead has no effect for the duration. this effect is increased to 4th level with a 8th level slot consumed and 5th level with a 9th level slot consumed. 
+- Your entropic bolt gains advantage on all attack rolls.
+- The only spell you may cast is entropic bolt, however the number of times you may cast it with the same action increases according to the spell slot consumed to activate this state as follows: Twice total for 7th level, three times total for 8th level, and 4 times for 9th level.
+- Finally you gain a 10ft flying (hover speed) but only if activated with a 9th level slot
+
+When this state ends you gain 2 points of exhaustion.
+
+<img 
+  src='https://64.media.tumblr.com/345ad49990880ec7e55c85da26dbec53/tumblr_nxa5j4yjeb1rru5hno1_1280.jpg' 
+  style='position:absolute; top:200px; right:-200px; width:670px' />
+
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56805e26-a646-4670-8b40-2ed27d438198/dcjq5b0-e59f2e4b-eb1a-4a2a-80a5-5e43cf723e92.png/v1/fill/w_1024,h_1326,strp/43___nawdgqf_by_flamableconcrete_dcjq5b0-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMyNiIsInBhdGgiOiJcL2ZcLzU2ODA1ZTI2LWE2NDYtNDY3MC04YjQwLTJlZDI3ZDQzODE5OFwvZGNqcTViMC1lNTlmMmU0Yi1lYjFhLTRhMmEtODBhNS01ZTQzY2Y3MjNlOTIucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6qs74UuY1NEd88N8xS11Qrtg4tIsLYuc-xySCI6JGfQ'
+     style='position:absolute; top:0px; left:0px; width:816px' />
+		 
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SUBCLASS SIX: WIZARD - ORDER OF ENTROPYN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -501,7 +737,13 @@ long rest.
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 
-\page
+	
+	
+	
+	
+	
+<!--
+
 <p style="margin-left: 10m;padding: 30em 1em 0"></p>
 
 <img 
@@ -510,3 +752,5 @@ long rest.
 	
 
 <h1 style="font-size:4vw; magin: auto">HOMEBREW MAGIC ITEMS</h1>
+
+-->

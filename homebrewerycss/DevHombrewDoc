@@ -65,41 +65,9 @@
 .phb#p1:after{ display:none; } 
 </style>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img 
-  src='https://pbs.twimg.com/media/DsalJMcVAAAWM7V?format=jpg&name=4096x4096' 
-  style='position:absolute;top:0px;left:-325px;height:120%'/>
+  src='https://cdn.discordapp.com/attachments/903093130620993579/904233374447706123/homunc.jpg' 
+  style='position:absolute;top:0px;left:-325px;height:100%'/>
   
 <img 
   src='http://i.imgur.com/YRAeIcj.png' 
@@ -127,8 +95,6 @@
   style='position:absolute;bottom:-20px;left:146px;width:550px'/>
 
 \page
-<!-- PAGE ONE-->
-
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903095090585665556/book.png' 
   style='position:absolute;top:0px;left:-0px;height:100%'/>
@@ -150,17 +116,17 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 	
 - ### [<span></span><span>**Classes & Subclasses**</span>](#p6)
 	 - [<span>Page 6</span><span>Barbarian Path: Path of the Battlerager (Rework)</span>](#p6)
-	 - [<span>Page 7</span><span>Barbarian Path: Path of Berzerker (Rework))</span>](#p7)
+	 - [<span>Page 7</span><span>Barbarian Path: Path of Berzerker (Rework)</span>](#p7)
 	 - [<span>Page 8</span><span>Fighter - Martial Archetype: Olympian</span>](#p8)
 	 - [<span>Page 9</span><span>Paladin - Oath of The Warden</span>](#p9)
-	 - [<span>Page 10</span><span>Rogue - Void Singer</span>](#p10)
-	 - [<span>Page 11</span><span>Wizard - Order of Entropy</span>](#p11)
+	 - [<span>Page 10</span><span>Rogue - Roguish Archetype: Brigand</span>](#p10)
+	 - [<span>Page 11</span><span>Rogue - Roguish Archetype Void Singer</span>](#p11)
+	 - [<span>Page 12</span><span>Wizard - Order of Entropy</span>](#p12)
 
-	
+
+- ### [<span>Pages 13-14</span><span>**Spells**</span>](#p13) 
+
 <!--
-
-- ### [<span></span><span>**Spells**</span>](#p6) 
-
 - ### [<span></span><span>**Homebrew Items**</span>](#p8)
  - #### [<span>HB-1</span><span>**Nonmagic Items**</span>](#p8)
   [<span>HB-2 </span><span>Weapons and Ammo</span>](#p8)
@@ -189,15 +155,13 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
-<!-- PAGE TWO-->
-
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903793815939338250/background.png' 
-  style='position:absolute;top:0px;left:-100px;height:120%'/>
+  style='position:absolute;top:0px;left:0px;height:100%'/>
 	
 <!-- Images above-->
 
-<h1 style="font-size:7vw">Races</h1>
+<h1 style="font-size:5vw">Races</h1>
 
 # Nagas
 Nagas, up until recently, resided exclusively in two areas; the desert regions of the Southern Regions in small nomadic tribes, or on a recently discovered island to the west of Asturion. Both groups are new to the ways of Elians.
@@ -238,9 +202,6 @@ Size. Naga stand about 5 feet tall when upright, but the total length of their b
 <!--The above is the page number added automatically. Do not mess with this.-->
 
 \page
-<!-- PAGE THREE-->
-
-
 # Fire Newts
 Fire Newts orginal hail from the elemental plane of fire. Because of this fact firenewts are wowed by the most mundane of things found on the material plane. For instance firenewts throw outrageously large parties every night as they are unused to the idea of a nighttime.
 Firenewts are about the size of a small human. They appear like lizardfolk with simpler faces and larger, dark-colored eyes. Their speckled, smooth skin appear eel-like and bears the color of flames. Firenewt colors have increasing rarity from red to yellow to white to blue. Even more rare are purple newts and above that green newts. Solid colored newts are very rare. There are not any known solid purple or green newts. Firenewts have long feet, giving them the appearance of "reversed knees".
@@ -353,7 +314,7 @@ Waternewt cities are a confusing blend of canals, tunnels, and wide open spaces 
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
-<h1 style="font-size:5vw">Subclasses</h1>
+<h1 style="font-size:4vw">Subclasses</h1>
 
 ## Barbarian Path: Path of the Battlerager (Rework)
 
@@ -506,6 +467,7 @@ ___
 Throw: As a bonus action you can throw the creature you are grappling with all your might. Target that is one size category larger than you or smaller takes bludgeoning damage equal to your wrestling die and have to make Dexterity saving throw. On a failure you can throw target up to 10 ft. in a horizontal direction of your choice. If target hits another creature or object they both take bludgeoning damage equal to your wrestling die.
 <br>
 <br>
+<br>
 ### Might of Olympus
 Starting at 7th level your unarmed attacks and wrestling dice damage count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 ### Additional Wrestling Die
@@ -523,20 +485,8 @@ At 18th level, you gain ability to grapple and shove creatures 3 size categories
 ### Improved Wrestling (d12)
 Starting at 18th level, your wrestling dice turn into d12s.
 
-<!--
-# Martial weapons
-<div class='classTable'>
-##### Rietuma Expanded Mundane Weaponry Table
-
-|Name | Cost | Damage | Weight| Properties |
-|:---:|:---:|:---|:---:|
-| Polehammer | 20gp | 1d10 bludgeoning| 10 | Heavy, Reach, Two-Handed|
-| 2nd | +2 | Malefic Chemist | +2 |
-</div>
--->
-
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS THREE: FIGHTER - MARTIAL ARCHETYPE: OLYMPIAN</div>
+<div class='footnote'>SUBCLASS THREE: OLYMPIAN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -562,19 +512,16 @@ ___
 At 3rd level, and again at 5th, 9th, 13th, and 17th level, you gain
 the spells listed in the Oath of the Warden Spells table. 
 <img src='https://media.discordapp.net/attachments/522811853743718402/898436639418892308/wardenspells.png' style='position:relative;bottom:-10px;right:0px;width:300px' />
-<br>
-<br>
 ### Channel Divinity: Sacred Marksmanship
 You can use your Channel Divinity to imbue up to two ranged weapons with holy power. As an action you
 can touch up to two ranged weapons, granting them the following
 properties for 8 hours. This effect ends early if you use it again
 before its duration ends.
 ___
-• The weapons are magical.
+• The weapons are magical and provide magical ammunition.
 ___
 • If the weapons have the ammunition or loading property,
-they no longer have those properties. The ammunition and
-loading are provided magically.
+they no longer have those properties.
 ___
 • When you hit a creature with a ranged weapon attack
 using the weapons, you can use your Divine Smite feature.
@@ -625,21 +572,55 @@ ___
 reaction to seal its soul with a holy glyph that appears on
 the target’s body. A creature so sealed cannot be returned
 to life unless you give permission for it to do so. 
-___
-Once you have used this feature, you cannot use it again until you finish a
+
+<br> 
+• Once you have used this feature, you cannot use it again until you finish a
 long rest.
 
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS FOUR: PALADIN - OATH OF THE WARDEN</div>
+<div class='footnote'>SUBCLASS FOUR: THE WARDEN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
 <div class='pageNumber auto'></div>
 
 <!--The above is the page number added automatically. Do not mess with this.-->
+
 \page 
-## Rogue - Void Singer
+## Roguish Archetype: Brigand
+
+Rogues of this archetype usually are skilled self-tought warriors that excel in fighting using many tricks and dirty moves in their arsenal. They never fight fair and always seek any advantage they can utilize to earn victory.
+
+### Highwayman
+When you choose this archetype at 3rd level you develop your own fighting style that involves clean strikes at weak points where it will hurt most. You gain proficency with medium armor and you are now profient in intimidation skill if you are not already proficient in it.
+Pick one martial or simple melee weapon that doesn't have heavy or special property, unarmed strike or natural weapon. This weapon counts as finesse for you and you are proficient with it. 
+You can change your highwayman weapon every time you level up. You gain another Highwayman Weapon at level 9
+### Dirty Trick
+Starting at 3rd level, as a bonus action you can try to distract one target within 5 ft. of you that you can see. Make Dexterity(Sleight of hand) check contested by target's Wisdom(perception) check. You must have free hand to use this feature. If you succeed, you have advantage on all your attack against this target and it have
+disadvantage on attacks against you until the end of your next turn. You can use this feature number of times equal to your Proficiency Bonus. You regain all uses after finishing long rest.
+___
+You also gain ability to throw off balance your opponents after sucessfuly distracting them. Once per turn, if you hit target that is effected by your Dirty Trick feature with melee weapon attack, you can attempt to shove it prone as a bonus action. While shoving this way you can use Dexterity(Sleight of hands) skill instead of Strength(Athletics)(Whatever is higher)
+### Intimidate
+Starting at 9th level, you learn how to instil great fear in your foes or any poor souls that decided to cross your pass. As an action choose one creature within 30 ft. that you can see, can understand your speech and is able to see you. Make Charisma(Intimidation) check contested by target's Wisdom(Insight) check. On a success target is frightened of you for 1 minute or until it takes any damage.
+### Tough as nails
+Starting at 13th level, whenever you use Uncanny Dodge feature you also reduce damage by number equal to your proficiency bonus + Dexterity modifier after halving it.
+### Prey on weak
+Starting at 17th level, whenever you hit creature that is restrained, frightened, blinded or incapacitated with melee attack your sneak attack damage is increased by 3d6.
+
+<img src='https://media.discordapp.net/attachments/522811853743718402/869981329306026084/brigand.png?width=484&height=670' style='position:relative;bottom:-10px;right:10px;width:360px' />
+	
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SUBCLASS FIVE: BRIGAND</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page 
+## Roguish Archetype: Void Singer
 For some fortune is what they seek, for others knowledge, and for others still power. Some would call what lurks within the void all three. Those who have delved deep enough to find it sing of what they found. 
 
 #### Lessons of the Void
@@ -680,7 +661,7 @@ As an action you can end this effect. After activating this feature you may not 
      style='position:absolute; top:0px; left:0px; width:816px' />
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS FIVE: OATH OF THE WARDEN</div>
+<div class='footnote'>SUBCLASS SIX: OATH OF THE WARDEN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -715,6 +696,7 @@ Your grip over entropy has strengthened to the point that your very magic is inf
 At 14th level as a bonus action, you may expend a spell slot of 7th level or higher to enter an entropic state of being. For one minute you gain a limited magic resistance granting the following effects
 - If you are targeted or effected by a spell of third level or lower it instead has no effect for the duration. this effect is increased to 4th level with a 8th level slot consumed and 5th level with a 9th level slot consumed. 
 - Your entropic bolt gains advantage on all attack rolls.
+	
 - The only spell you may cast is entropic bolt, however the number of times you may cast it with the same action increases according to the spell slot consumed to activate this state as follows: Twice total for 7th level, three times total for 8th level, and 4 times for 9th level.
 - Finally you gain a 10ft flying (hover speed) but only if activated with a 9th level slot
 
@@ -729,7 +711,7 @@ When this state ends you gain 2 points of exhaustion.
      style='position:absolute; top:0px; left:0px; width:816px' />
 		 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS SIX: WIZARD - ORDER OF ENTROPYN</div>
+<div class='footnote'>SUBCLASS SEVEN: ORDER OF ENTROPY</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -737,20 +719,190 @@ When this state ends you gain 2 points of exhaustion.
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 
+\page
+<img 
+  src='https://cdn.discordapp.com/attachments/903093130620993579/904417375468781678/water.png' 
+  style='position:absolute;top:0px;left:-0px;height:100%'/>
+
+<!-- Images above-->
 	
 	
+<p style="margin-left: 10m;padding: 30em 6em 0"></p> <!-- Creates blank space to push the text down -->
+
+<h1 style="font-size:5vw">Spells</h1>
 	
+### Assasin's Mark
+*transmuatation cantrip*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 30 ft
+- **Components:** V, S
+- **Duration:** Permanent
+- **Classes:** Warlock, Wizard
+
+___
+When cast upon a creature killed by you within a minute of its death, assasins mark reshapes the wound in a way that unmistakably identifies you as the killer.
 	
+You select the form this mark will take when you learn the spell, and you can't change it later except through exceptional magic such as the wish spell.
+
+No two creatures can share the same assasin's mark.
+
+	<br> 
+
+### Iron fist 
+*transmutation cantrip*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self 
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Classes:** Artificer, Cleric, Wizard
+
+---
+**Description:** The rising popularity of, what have been referred to as"fist wizards", has led to the creation of new magic to suit this style of fighting. 
+Metal coats the skin of the caster as they begin casting, and they can then choose to make a special unarmed strike attack against a creature within 5ft. On a hit, the target takes 1d6 bludgeoning damage (recieving no bonus from strength or casting modifier, just to be in line with other cantrips) as the steely hide of the caster's fist slams into them.
+
+---
+The caster's skin remains hard for a few seconds as a side effect to the casting. Hit or miss, the user gains temporary hit points equal to their spellcasting ability modifier until the beginning of their next turn. The quantity of temporary hit points gained cannot be increased by any means. However, they have disadvantage on Dexterity Saving Throws and their movement speed is reduced by 5ft. 
+
+---
+The spell's damage increases by 1d6 and the temporary hit points granted increase by your spellcasting ability modifier when you reach 5th level (2d6 and 2 times spellcasting ability modifier THP), 11th level (3d6 and 3 times spellcasting ability modifier THP), and 17th level (4d6 and 4 times spellcasting ability modifier THP).
 	
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>Spells</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page
+### Devils of the Dunes
+*3rd-level conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V,S,M (3 gemstones worth 50g each)
+- **Duration:** 1 minute, concentration
+- **Classes:** Wizard
+
+Summon 1 dust mephit as part of the action to cast this spell, as a bonus action on subsequent turns an additional mephit can be summoned up to a maximum of 3 at once. If the spell ends the mephits die. The colour of the gems used determines the eye colour of the mephits.
+
+___
+**At higher levels.** when you cast this spell using a spell slot of 4th level or higher the maximum amount of mephits summoned at once increases by 1 for each slot level above 3rd.
+	
+<div class='descriptive'>
+The above spell is heretical. Being caught using it will incur consequences from the Church of Eli if the caster is found out.
+</div>
+	
+### Elder Sign
+___
+*3rd-level abjuration*
+___
+- **Casting Time:** 1 hour
+- **Range**: Touch
+- **Components**: V, S, M (special ink or tools worth 500 gp,
+which the spell consumes), D (up to 5 feet across, on
+object touched)
+- **Duration:** Until Dispelled
+- **Classes**: Wizards, Sorcerers
+- **Subclasses**: Cleric (Arcana Domain), Warlock (Pact of the Undying)
+___
+You create an Elder Sign on an object you touch. The Elder
+Sign is immune to the damage, spells, and abilities from
+any CR 20+ aberrations, or creatures bound to
+their service. These creatures can’t touch or pass through
+an object with the Elder Sign. Generally, an Elder Sign is
+destroyed after being within 30 feet of a CR 20+ aberration
+for more than 5 continuous rounds. Note that since only
+the Elder Sign itself has immunity to various alien horrors,
+its protection can be unreliable. For example, a shield with
+the Elder Sign drawn on it would not be affected by a Great
+Old One’s attack, but the monster could still strike the bearer
+if it avoids striking the shield (and thus the bearer’s AC is
+not any higher than it would be with an unmarked shield).
+Engraving the sign upon a door or on an archway prevents
+such creatures from passing through the portal.
+
+___
+**At Higher Levels.** When you cast this spell using a spell
+slot of 4th level or higher, you can create an Elder Sign
+with a radius of up to 5 feet, plus 5 feet per level of the
+spell slot above 3rd.
+
+	<br>
+	
+### Gallow tree
+*4th-level conjuration (ritual)*
+___
+- **Casting time:** 1 action
+- **Range**: Touch
+- **Components:** V, S
+- **Duration:** 1 week
+- **Classes:** Warlock, Wizard
+
+
+One creature you can see must make a wisdom saving throw. If it fails, it becomes mystically linked to a structure or tree of your choosing on the same plane. If the creature dies during the duration of the spell, its body is instantly teleported to the structure or tree and bound to it by stout ropes.
+
+<div class='descriptive'>
+The above spell is heretical. Being caught using it will incur consequences from the Church of Eli if the caster is found out.
+</div>
+	
+### Skeletal Deliquesce 
+*8th-level transmutation*
+___
+- **Casting Time:** 1 action 
+- **Range:** 60 ft
+- **Components:** V, S, M (a cube of gelatin)
+- **Duration:** Instantaneous 
+- **Classes**: Wizards, Sorcerers
+
+Description: You attempt to reduce a flesh-and-blood creature you can see within range to a quivering mass of meat by removing its skeleton. The target must succeed on a Constitution saving throw or have its skeleton vanish, falling prone and becoming unable to stand up. A creature with its skeleton so vanished has its speed reduced to 10 feet and can not cast spells, attack, or perform any action that requires the use of its limbs. On each of its turns, the target can use an action to attempt a DC 16 Constitution ability check, restoring its skeleton on a success and ending the effect.
+	
+
+### Mori Memento
+*4th-level divination*
+___
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V,S,M (a strand of hair or drop of blood from the target)
+- **Duration:** instantaneous
+- **Classes**: Cleric, Wizard
+___
+You target a willing creature and learn what fate will befall it near death. Roll all results for death saves as if it was just reduced to 0 hit points. 
+___
+For the next 24 hours if target creature must make death saves, it will use the rolled results per round, in order that they received them. If at the time of actually dying, the creature was told his death saves and is under the effects of something that would help or hinder that roll, simply make the addition/subtraction to the next predetermined roll or in the case that something gives advantage/disadvantage, roll a second dice and take the appropriate number. This spell has no effect on creatures that lack the ability to make death saves.
+
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>Spells (Contd.)</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page
 <!--
 
 <p style="margin-left: 10m;padding: 30em 1em 0"></p>
-
-<img 
-  src='https://cdn.discordapp.com/attachments/903093130620993579/903809895021822012/nonmagical_items.png' 
-  style='position:absolute;top:0px;left:-1px;height:105%'/>
 	
 
-<h1 style="font-size:4vw; magin: auto">HOMEBREW MAGIC ITEMS</h1>
+<h1 style="font-size:4vw; magin: auto">HOMEBREW ITEMS</h1>
 
+-->
+	
+<!--
+# Martial weapons
+<div class='classTable'>
+##### Rietuma Expanded Mundane Weaponry Table
+
+|Name | Cost | Damage | Weight| Properties |
+|:---:|:---:|:---|:---:|
+| Polehammer | 20gp | 1d10 bludgeoning| 10 | Heavy, Reach, Two-Handed|
+| 2nd | +2 | Malefic Chemist | +2 |
+</div>
 -->

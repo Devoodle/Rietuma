@@ -118,36 +118,22 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 	 - [<span>Page 6</span><span>Barbarian Path: Path of the Battlerager (Rework)</span>](#p6)
 	 - [<span>Page 7</span><span>Barbarian Path: Path of Berzerker (Rework)</span>](#p7)
 	 - [<span>Page 8</span><span>Fighter - Martial Archetype: Olympian</span>](#p8)
-	 - [<span>Page 9</span><span>Paladin - Oath of The Warden</span>](#p9)
-	 - [<span>Page 10</span><span>Rogue - Roguish Archetype: Brigand</span>](#p10)
-	 - [<span>Page 11</span><span>Rogue - Roguish Archetype Void Singer</span>](#p11)
-	 - [<span>Page 12</span><span>Wizard - Order of Entropy</span>](#p12)
+	 - [<span>Page 9</span><span>Fighter - Martial Archetype: Echo Knight (Rework)</span>](#p9)
+	 - [<span>Page 10</span><span>Paladin - Oath of The Warden</span>](#p10)
+	 - [<span>Page 11</span><span>Rogue - Roguish Archetype: Brigand</span>](#p11)
+	 - [<span>Page 12</span><span>Rogue - Roguish Archetype Void Singer</span>](#p12)
+	 - [<span>Page 13</span><span>Wizard - Order of Entropy</span>](#p13)
+	 - [<span>Page 13</span><span>Misc. Class Rulings</span>](#p14)
 
 
-- ### [<span>Pages 13-14</span><span>**Spells**</span>](#p13) 
-- ### [<span>Page 15</span><span>**Homebrew Items**</span>](#p15) 
-	- [<span>Page 16</span><span>Mundane Exotic Poison</span>](#p16)
-	- [<span>Page 17</span><span>Mundane Weapons and Ammo</span>](#p17)
-	- [<span>Page 18</span><span>Mundane Exotic Items</span>](#p18)
+- ### [<span>Pages 15-16</span><span>**Spells**</span>](#p15) 
+	- [<span>Page 17</span><span>Misc. Spell Rulings</span>](#p17)
 
-<!--
-- ### [<span></span><span>**Homebrew Items**</span>](#p8)
- - #### [<span>HB-1</span><span>**Nonmagic Items**</span>](#p8)
-  [<span>HB-2 </span><span>Weapons and Ammo</span>](#p8)
- - #### [<span>Page ?</span><span>**Magic Items**</span>](#p3)
-  [<span>Page ?</span><span>Common</span>](#p3)
-	[<span>Page ?</span><span>Uncommon</span>](#p3) 
-	[<span>Page ?</span><span>Rare</span>](#p3)
-	[<span>Page ?</span><span>Very Rare</span>](#p3)
-	[<span>Page ?</span><span>Legendary</span>](#p3)
-	
-- ### [<span></span><span>**Feats**</span>](#p3)
-
-- ### [<span></span><span>**Epic Boons**</span>](#p3)
-	
-- ### [<span></span><span>**Homebrew Rulings**</span>](#p3)
-</div> 
--->
+- ### [<span>Page 18</span><span>**Homebrew Items**</span>](#p18) 
+	- [<span>Page 18-19</span><span>Mundane Weapons and Ammo</span>](#p18)
+	- [<span>Page 20</span><span>Mundane Exotic Poison</span>](#p20)
+	- [<span>Page 21</span><span>Mundane Exotic Items</span>](#p21)
+</div>
 
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
@@ -165,9 +151,8 @@ Welcome to the homebrew guide for the Reituma: Reloaded server. Below is a table
 	
 <!-- Images above-->
 
-<h1 style="font-size:5vw">Races</h1>
+<h1 style="font-size:4vw">Races</h1>
 
-# Nagas
 Nagas, up until recently, resided exclusively in two areas; the desert regions of the Southern Regions in small nomadic tribes, or on a recently discovered island to the west of Asturion. Both groups are new to the ways of Elians.
 
 <br>
@@ -197,7 +182,7 @@ Size. Naga stand about 5 feet tall when upright, but the total length of their b
 ***Languages.*** You can speak, read and write Vahcian and either Naga or Sahran.
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>RACE ONE: NAGA</div>
+<div class='footnote'>NAGA</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -206,7 +191,7 @@ Size. Naga stand about 5 feet tall when upright, but the total length of their b
 <!--The above is the page number added automatically. Do not mess with this.-->
 
 \page
-# Fire Newts
+#  
 Fire Newts orginal hail from the elemental plane of fire. Because of this fact firenewts are wowed by the most mundane of things found on the material plane. For instance firenewts throw outrageously large parties every night as they are unused to the idea of a nighttime.
 Firenewts are about the size of a small human. They appear like lizardfolk with simpler faces and larger, dark-colored eyes. Their speckled, smooth skin appear eel-like and bears the color of flames. Firenewt colors have increasing rarity from red to yellow to white to blue. Even more rare are purple newts and above that green newts. Solid colored newts are very rare. There are not any known solid purple or green newts. Firenewts have long feet, giving them the appearance of "reversed knees".
 
@@ -258,7 +243,7 @@ After you use this ability, you can’t use it again until you complete a short 
   style='position:absolute; top:592px; right: px; 		width:350px;mix-blend-mode:multiply'/>
 	
 	<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>RACE TWO: FIRE NEWT</div>
+<div class='footnote'>FIRE NEWT</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -269,8 +254,8 @@ After you use this ability, you can’t use it again until you complete a short 
 \page
 <!-- PAGE FOUR-->
 
-# Water Newts
-Waternewts are a race native to the plane of water. Waternewts constantly work torwards a deeper understanding of realty and what causes events to occur, they have dubbed this transcendent force "the current" and believe that this phenomenon is the reason behind every occcurance. Waternewts believe that nothing is above the force of the current, and even the dieties bend to this will. 
+#  
+Water Newts are a race native to the plane of water. Waternewts constantly work torwards a deeper understanding of realty and what causes events to occur, they have dubbed this transcendent force "the current" and believe that this phenomenon is the reason behind every occcurance. Waternewts believe that nothing is above the force of the current, and even the dieties bend to this will. 
 
 For many Waternewts, they establish a goal to seek early on in their lives, a project that they refer to as their Opus. Waternewts will spend nearly their entire lives working on their Opus, this project can range from attempting to uncover an artifact to creating the greatest flower garden ever made. In waternewt culture in order to ascend to the afterlife and have eternal happiness they complete this project.
 
@@ -310,7 +295,7 @@ Waternewt cities are a confusing blend of canals, tunnels, and wide open spaces 
 ***Example Names:*** Last drop of the water, A murky abyss, Water turnt to Ice.
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>RACE THREE: WATER NEWT</div>
+<div class='footnote'>WATER NEWT</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -318,7 +303,7 @@ Waternewt cities are a confusing blend of canals, tunnels, and wide open spaces 
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
-<h1 style="font-size:4vw">Subclasses</h1>
+<h1 style="font-size:4vw"><center>Subclasses</center></h1>
 
 ## Barbarian Path: Path of the Battlerager (Rework)
 
@@ -358,7 +343,7 @@ Starting at 14th level, when a creature within 5 feet of you hits you with a mel
 Additionally, the damage dice of your spiked armor changes to 1d12
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS ONE: PATH OF THE BATTLERAGER</div>
+<div class='footnote'>PATH OF THE BATTLERAGER</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -434,7 +419,7 @@ At 10th level, you realize that your brain is also a muscle. You can add your St
 Starting at 14th level, when you take damage from a creature that is within the reach of a melee weapon you are holding, you can use your reaction to make a melee weapon attack against that creature.
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS TWO: PATH OF THE BERZERKER (REWORK)</div>
+<div class='footnote'>PATH OF THE BERZERKER (REWORK)</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -452,7 +437,7 @@ Starting at 14th level, when you take damage from a creature that is within the 
 ## Fighter - Martial Archetype: Olympian
 
 ### Peak Physical Condition
-Starting at 3rd level you gain proficency in in athletics if you don't already have it, additionaly whenever you make Strength(Atletics) check, you gain a bonus to the check equal to your Dexterity modifier and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+Starting at 3rd level you gain proficency in in athletics if you don't already have it, additionaly whenever you make Strength (Athletics) check, you gain a bonus to the check equal to your Dexterity modifier and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 ### Wrestling
 At 3rd level you become an expert at grappling and manoeuvring foes you have grappled. You gain ability to attempt to grapple creature within your reach as a bonus action. Additionally you can perform special Wrestling Techniques on target you are grappling fueled by Wrestling Dice. 
 ___
@@ -490,7 +475,7 @@ At 18th level, you gain ability to grapple and shove creatures 3 size categories
 Starting at 18th level, your wrestling dice turn into d12s.
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS THREE: OLYMPIAN</div>
+<div class='footnote'>OLYMPIAN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -499,6 +484,59 @@ Starting at 18th level, your wrestling dice turn into d12s.
 <!--The above is the page number added automatically. Do not mess with this.-->
 
 \page
+## Fighter - Martial Archetype: Echo Knight (Rework)
+
+### Manifest Echo
+At 3rd level, as a bonus action, you can magically manifest an echo of yourself in an unoccupied space within 15ft of you. An echo is grey in colour and slightly translucent, it visually mimics your equipment and clothing. You may only have one echo active at a time, you may summon a new echo while one is active but this destroys the first, killing it instantly. You may also dismiss your echo as a bonus action for the same effect. Finally the echo is also killed if you become incapacitated.
+___
+An echo has 1 hit point, an AC equal to 14 + your proficiency bonus, is immune to all conditions, and uses your bonus to saving throws. It has a weight equal to your weight (including equipment), and is considered to be the same creature type as you. It also mimics your size and likewise takes up the same amount of space.
+___
+On your turn, you may also command the echo to move (no action required). It has a movement speed equal to yours and retains any speeds you do. If your turn ends with it being more than 30 feet away from you, it is destroyed. The echo may be used in the following ways:
+- As a bonus action you may magically teleport to the space your echo currently occupies, this swaps your position with the echo
+  and costs half your total movement regardless of distance. this teleportation cannot cross planar boundaries and has uses equal to
+  your proficiency bonus
+- When you take the attack action on your turn, any attack you make with that action may originate from your space or your echo's.
+  This choice can be made for each attack.
+- If you would be entitled to an opportunity attack as though you were in your echo's space and you can see the target. You
+  may use your reaction to make an opportunity attack against it.
+
+### Unleash incarnation
+You can heighten your echo's fury. Whenever you take the Attack action, you can make one additional melee attack from the echo's position.
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a 
+long rest.
+
+### Echo avatar
+You can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, 
+you are deafened and blinded. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being 
+used in this way, it can be up to 300 feet away from you without being destroyed.
+
+### Shadow martyr
+You can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your 
+reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature, this teleport cannot cross planar boundaries. The attack roll 
+that triggered the reaction is instead made against your echo. The triggering attack must occour within 300ft of you or 300ft of your echo if using your 
+echo avatar feature
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+### Reclaim Potential
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points 
+equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+### Legion of One
+You can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the 
+previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.
+	
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>ECHO KNIGHT REWORK</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page 
 
 ## Paladin - Oath of The Warden
 
@@ -583,7 +621,7 @@ long rest.
 
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS FOUR: THE WARDEN</div>
+<div class='footnote'>THE WARDEN</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -615,7 +653,7 @@ Starting at 17th level, whenever you hit creature that is restrained, frightened
 <img src='https://media.discordapp.net/attachments/522811853743718402/869981329306026084/brigand.png?width=484&height=670' style='position:relative;bottom:-10px;right:10px;width:360px' />
 	
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS FIVE: BRIGAND</div>
+<div class='footnote'>BRIGAND</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -665,7 +703,7 @@ As an action you can end this effect. After activating this feature you may not 
      style='position:absolute; top:0px; left:0px; width:816px' />
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS SIX: OATH OF THE WARDEN</div>
+<div class='footnote'>VOID SINGER</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -715,7 +753,7 @@ When this state ends you gain 2 points of exhaustion.
      style='position:absolute; top:0px; left:0px; width:816px' />
 		 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>SUBCLASS SEVEN: ORDER OF ENTROPY</div>
+<div class='footnote'>ORDER OF ENTROPY</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -723,6 +761,33 @@ When this state ends you gain 2 points of exhaustion.
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 
+\page
+<h1 style="font-size:4vw"><center>Miscellaneous Class Rulings</h1>
+	
+### Fighter
+##### - The Arcane Archer can use their 'Arcane Shot' feature a number of times equal to their proficiency bonus.  
+	
+### Monk 
+##### The Monk can take the 'unarmed fighting' style.
+	
+### Paladin
+##### The Paladin can take the 'unarmed fighting' style.
+##### The Paladin can smite on an unarmed strike.
+	
+### Sorcerer
+##### The Aberrant Mind sorcerer is able to cast 'Summon Aberrant Spirit', the Clockwork Soul is able to cast 'Summon Construct Spirit', and the Shadow Sorcerer is able to cast 'Summon Shadowspawn'.
+	
+### Rogue
+##### - The Mastermind Rogue's 17th level ability 'Soul of Deceit' can bypass the effects of the spell Zone of Truth.
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>MISC. CLASS RULINGS</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
 \page
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/904417375468781678/water.png' 
@@ -733,7 +798,7 @@ When this state ends you gain 2 points of exhaustion.
 	
 <p style="margin-left: 10m;padding: 30em 6em 0"></p> <!-- Creates blank space to push the text down -->
 
-<h1 style="font-size:5vw">Spells</h1>
+<h1 style="font-size:4vw"><center>Spells</h1>
 	
 ### Assasin's Mark
 *transmuatation cantrip*
@@ -750,39 +815,9 @@ When cast upon a creature killed by you within a minute of its death, assasins m
 You select the form this mark will take when you learn the spell, and you can't change it later except through exceptional magic such as the wish spell.
 
 No two creatures can share the same assasin's mark.
-
-<br> 
-
-### Iron fist 
-*transmutation cantrip*
-___
-- **Casting Time:** 1 bonus action
-- **Range:** Self 
-- **Components:** V, S
-- **Duration:** Instantaneous
-- **Classes:** Artificer, Cleric, Wizard
-
----
-The rising popularity of, what have been referred to as"fist wizards", has led to the creation of new magic to suit this style of fighting. 
-Metal coats the skin of the caster as they begin casting, and they can then choose to make a special unarmed strike attack against a creature within 5ft. On a hit, the target takes 1d6 bludgeoning damage (recieving no bonus from strength or casting modifier, just to be in line with other cantrips) as the steely hide of the caster's fist slams into them.
-
----
-The caster's skin remains hard for a few seconds as a side effect to the casting. Hit or miss, the user gains temporary hit points equal to their spellcasting ability modifier until the beginning of their next turn. The quantity of temporary hit points gained cannot be increased by any means. However, they have disadvantage on Dexterity Saving Throws and their movement speed is reduced by 5ft. 
-
----
-**At Higher Levels:** The spell's damage increases by 1d6 and the temporary hit points granted increase by your spellcasting ability modifier when you reach 5th level (2d6 and 2 times spellcasting ability modifier THP), 11th level (3d6 and 3 times spellcasting ability modifier THP), and 17th level (4d6 and 4 times spellcasting ability modifier THP).
 	
-
-<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Spells</div>
-
-<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
-
-<div class='pageNumber auto'></div>
-
-<!--The above is the page number added automatically. Do not mess with this.-->
-
-\page
+	<br>
+	
 ### Devils of the Dunes
 *3rd-level conjuration*
 ___
@@ -800,7 +835,17 @@ ___
 <div class='descriptive'>
 The above spell is heretical. Being caught using it will incur consequences from the Church of Eli if the caster is found out.
 </div>
-	
+
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SPELLS</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page
 ### Elder Sign
 ___
 *3rd-level abjuration*
@@ -836,8 +881,20 @@ slot of 4th level or higher, you can create an Elder Sign
 with a radius of up to 5 feet, plus 5 feet per level of the
 spell slot above 3rd.
 
+### Fuck that one guy in particular
+___
+- *1st level evocation*
+- **Casting Time:** 1 action
+- **Range:** Unlimited
+- **Components:** V,S 
+- **Duration:** Instantaneous 
+- **Classes:** Sorcerer, Wizard 
+___
+
+A bolt of lighting streaks from the sky to strike one hostile (hostile meaning hostile to the caster) creature within a 200ft range when you utter the words "Fuck that one guy in particular!". The creature is randomly decided by the DM. The creature must make a dexterity saving throw. taking 3d10 lightning damage on a failed save, or half as much damage on a successful check. If this spell is cast again by any spell caster on the same plane of existence as you within 1 minute the same creature is struck by lightning regardless of physical distance There is always a chance of failure as this spell is cast often. roll a d6. on a 1 the spell you cast will strike someone you are unaware of miles away or someone close by assuming the spell was successfully cast by someone within the last minute Its damage increases by 1d10 for each slot above 1st.
+
 	<br>
-	
+
 ### Gallow tree
 *4th-level conjuration (ritual)*
 ___
@@ -847,13 +904,27 @@ ___
 - **Duration:** 1 week
 - **Classes:** Warlock, Wizard
 
-
 One creature you can see must make a wisdom saving throw. If it fails, it becomes mystically linked to a structure or tree of your choosing on the same plane. If the creature dies during the duration of the spell, its body is instantly teleported to the structure or tree and bound to it by stout ropes.
 
 <div class='descriptive'>
 The above spell is heretical. Being caught using it will incur consequences from the Church of Eli if the caster is found out. It must be found, and does not appear on spell lists naturally.
 </div>
 	
+### Rental Fiery Blast
+*0th level (cantrip) evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 5 feet
+- **Components:** V
+- **Duration:** Instantaneous
+- **Classes:** Warlock
+
+You form a fiery sphere and persuade it to travel to a point within range where it detonates. Each creature in a 20 foot radius centered on that point must make a dexterity saving throw. A creature takes 1d6 fire damage on a failed save.
+
+This spell’s range increases by 5 feet and its damage increases by 1d6 5th level (10 feet, 2d6), 11th level (15 feet, 3d6), and 17th level (20 feet, 4d6).
+
+(The Spell Sniper feat and Distance Metamagic ability do not increase this spells range.
+
 ### Skeletal Deliquesce 
 *8th-level transmutation*
 ___
@@ -861,13 +932,23 @@ ___
 - **Range:** 60 ft
 - **Components:** V, S, M (a cube of gelatin)
 - **Duration:** Instantaneous 
-- **Classes**: Wizards, Sorcerers
-
-
+- **Classes**: Sorcerer, Wizard
+	
 You attempt to reduce a flesh-and-blood creature you can see within range to a quivering mass of meat by removing its skeleton. The target must succeed on a Constitution saving throw or have its skeleton vanish, falling prone and becoming unable to stand up. A creature with its skeleton so vanished has its speed reduced to 10 feet and can not cast spells, attack, or perform any action that requires the use of its limbs. On each of its turns, the target can use an action to attempt a DC 16 Constitution ability check, restoring its skeleton on a success and ending the effect.
 	
 
-### Mori Memento
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>SPELLS (CONTD.)</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page
+
+### Memento Mori
 *4th-level divination*
 ___
 - **Casting Time:** 1 minute
@@ -875,21 +956,35 @@ ___
 - **Components:** V,S,M (a strand of hair or drop of blood from the target)
 - **Duration:** instantaneous
 - **Classes**: Cleric, Wizard
-___
+
+	
 You target a willing creature and learn what fate will befall it near death. Roll all results for death saves as if it was just reduced to 0 hit points. 
-___
 For the next 24 hours if target creature must make death saves, it will use the rolled results per round, in order that they received them. If at the time of actually dying, the creature was told his death saves and is under the effects of something that would help or hinder that roll, simply make the addition/subtraction to the next predetermined roll or in the case that something gives advantage/disadvantage, roll a second dice and take the appropriate number. This spell has no effect on creatures that lack the ability to make death saves.
 
+# <center> Miscellaneous Spell Rulings
 
+___
+	
+<div class='wide'>
+|Name | Spell Level| Errata|
+|:---:|:---:|:---:|
+|Glyph of Warding| 3| The glyph can not be placed  in the extradimensional spaces created by a bag of holding or portable hole.
+|Reincarnate| 5th| There is a new table that can be found here: https://discordapp.com/channels/722732392044822528/863413922572664892/863508029742907434. In addition, for a creature to be reincarnated, a body part must be taken from their dead body after their most recent death.
+|Simulacrum| 7th| A simulacrum can not make another simulacrum.
+|Clone| 8th| Can also be used to make clones of small creatures.|
+|True Polymorph| 9th| While true polymorphed you do not benefit from racials, class features or items  that were worn/held at time of transformation - you become that creature's statblock. Creatures are only infallibly loyal until they become permanently polymorphed. A willing creature's race can be changed by this spell, and can keep being changed by this spell after that.
+|Wish| 9th| You can not cast Wish to regain the ability to cast Wish.
+</div>
+
+	
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Spells (Contd.)</div>
+<div class='footnote'>MISCELLANEOUS SPELL RULINGS</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
 <div class='pageNumber auto'></div>
 
 <!--The above is the page number added automatically. Do not mess with this.-->
-
 \page
 <img 
   src='https://cdn.discordapp.com/attachments/903093130620993579/903809895021822012/nonmagical_items.png' 
@@ -897,21 +992,9 @@ For the next 24 hours if target creature must make death saves, it will use the 
 
 <!-- Images above-->
 	
-<p style="margin-left: 10m;padding: 40em 1em 0"></p>
-	
-<center><h1 style="font-size:8vw; margin: auto">HOMEBREW ITEMS</h1></center>
-
-<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Homebrew Items</div>
-
-<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
-
-<div class='pageNumber auto'></div>
-
-<!--The above is the page number added automatically. Do not mess with this.-->
-
-\page
-<center><h2 style="font-size:2vw; margin: auto">Mundane Weapons</h3></center>
+<p style="margin-left: 10m;padding: 25em 1em 0"></p>
+	<center><h1> Homebrew Items</center>
+## Mundane Weapons and Ammo
 <div class='classTable'>
 ##### Expanded Simple Weapons
 
@@ -930,7 +1013,11 @@ For the next 24 hours if target creature must make death saves, it will use the 
 
 |Name | Cost | Damage | Weight| Properties|
 |:---:|:---:|:---:|:---:|
+|Compound Bow| 200gp| 1d8 Piercing| 5lb| Ammunition, Loading, Heavy, Range, Two-handed, Special (15 strength)
 |Multishot Crossbow, Heavy|200gp|1d10 Piercing (adv)| 27lb|Ammunition, Heavy, Loading, (Range 50), Two-Handed, Special|
+</div>
+<br>
+<div class='classTable'>
 ##### Expanded Martial Weapons
 
 |Name | Cost | Damage | Weight| Properties|
@@ -941,13 +1028,26 @@ For the next 24 hours if target creature must make death saves, it will use the 
 |Sabre|30gp|	1d8 Slashing	|4lb|	Finesse, Martial|
 |Weighted Chain|5gp  | 1d8 Bludgeoning | 5lb |Martial, Special |
 </div>
+### Compound bow
+The arrows fired from this are no different to any other bow for the purposes of purchasing or crafting, Magical arrows are allways usable in this bow. The crossbow expert feat can negate the loaded property for this bow. The user cannot use dexterity for to hit or damage rolls, you must use strength. If the user's strength score is not 15 or higher, normal range attacks have disadvantage and long range attacks automatically miss. If you have proficiency in the longbow you have proficiency with this weapon too.	
+	
+<!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
+<div class='footnote'>MUNDANE WEAPONS AND AMMO</div>
+
+<!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
+
+<div class='pageNumber auto'></div>
+
+<!--The above is the page number added automatically. Do not mess with this.-->
+
+\page
 ### Harpoon
 A spear firmly attached to 60ft of silk rope.
 
-#### Slow recovery
+**Slow recovery** -
 The same harpoon can be thrown once per turn as you recover it by pulling on the rope, however a harpoon may not be thrown more than once per turn.
 
-#### Tether
+**Tether** -
 On hit the wielder and target must make opposed strength checks against each other, if the target fails their check then they are pulled 20ft closer to the wielder, this effect does not work on creatures that are two or more size categories larger than the wielder.
 
 ### Multishot Crossbow
@@ -957,18 +1057,16 @@ A multishot crossbow costs 4x as much as its normal equivalent and weighs 1.5x a
 ### Throwing Sap 
 A lump of iron slightly larger than a golf ball wrapped in leather padding, typicially used to subdue someone without killing them.
 
-#### Padded
+**Padded** -
 Attacks with the throwing sap are automaticially considered nonlethal.
 	
 ### Weighted Chain 
 This chain is roughly 4ft in length with a weight on the end.
 
-#### Adjustable grip
+**Adjustable grip** - 
 When held with 2 hands the weapons gains the following properties, Reach, Versatile (2d4+1)
 
-<h2 style="font-size:2vw; margin: auto">Mundane Ammo</h3>
-	
-### Bludgeoning Ammunition
+### Bludgeoning Ammunition (ammo)
 **Cost:** *1gp per 20* 
 <br>
 **Weight:** *1lb per 20*
@@ -976,7 +1074,7 @@ When held with 2 hands the weapons gains the following properties, Reach, Versat
 Attacks made using these arrows or bolts have half the normal range, all damage dealt using it is considered bludgeoning and nonlethal.
 
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Mundane Weapons And Ammo</div>
+<div class='footnote'>MUNDANE WEAPONS AND AMMO (CONTD.)</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -984,13 +1082,12 @@ Attacks made using these arrows or bolts have half the normal range, all damage 
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
-<center><h2 style="font-size:2vw; margin: auto">Mundane Exotic Poisons</h3></center>
+<h1 style="font-size:4vw"><center>Mundane Exotic poisons</center></h1>
 	
 ### Silver Moon's Poison
 *Mundane item, consumable, exotic*
 
 ___
-
 
 **Ingredients and brewing:**
 The Potion only has three important ingredients those being; Sprigs of Wolfsbane, Silver dust, and Blood or similar liquids from an Uncommon monster (uncommon CR part).
@@ -1015,10 +1112,8 @@ While under the effects of sporegoo the creature cannot regain consciousness.
 ___
 This poison must be harvested from a dead or Incapacitated Green Dragon Wyrmling. A creature subjected to this poison must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 
-
-	
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Mundane Exotic Weapons</div>
+<div class='footnote'>MUNDANE EXOTIC POISONS</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
@@ -1026,7 +1121,7 @@ This poison must be harvested from a dead or Incapacitated Green Dragon Wyrmling
 
 <!--The above is the page number added automatically. Do not mess with this.-->
 \page
-<center><h2 style="font-size:2vw; margin: auto">Exotic items</h3></center>
+<h1 style="font-size:4vw"><center>Exotic items</center></h1>
 	
 ### Assassin dust
 *Mundane item, consumable, exotic*
@@ -1063,7 +1158,7 @@ This alchemically treated wooden stick instantly creates thick, opaque smoke whe
 
 	
 <!--EVERYTHING BELOW THIS HAS NO REASON TO BE CHANGED DESPITE GRAMMAR/SPELLING ISSUES-->
-<div class='footnote'>Mundane Weapons And Ammo</div>
+<div class='footnote'>EXOTIC ITEMS</div>
 
 <!--This above for what appears next to the page number neat the bottom left. It should generally match the main header at the top.-->
 
